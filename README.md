@@ -1,4 +1,23 @@
-# product-listing-page
+## product-listing-page
+# Description:
+This repository showcases a dynamic and responsive product listing page developed using React.js and styled with modern CSS techniques. The project demonstrates the ability to create scalable and interactive user interfaces for e-commerce applications. It includes features like product filtering, sorting, and pagination, designed to enhance the user experience.
+
+# Features:
+
+Dynamic Product Listing: Efficiently displays a list of products with filtering and sorting options.
+Responsive Design: Ensures optimal viewing experience across various devices and screen sizes.
+Interactive Elements: Includes functionalities such as search, filter, and sort to improve usability.
+Modular Architecture: Uses React components to maintain a clean and organized codebase.
+Custom Styling: Leveraged CSS modules for scoped and maintainable styling.
+
+# Technologies Used:
+
+React.js
+CSS Modules
+JavaScript (ES6+)
+HTML5
+Responsive Web Design
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
